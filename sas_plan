@@ -1,0 +1,4 @@
+(move a b t)
+(move b c t)
+(move a t c)
+; cost = 3 (unit cost)
